@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Komurcuoglu</h1>
-<h3 align="center">Merhaba. 22 yaşındayım, Bilgisayar Mühendisiyim.</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
